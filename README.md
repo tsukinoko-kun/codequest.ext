@@ -27,6 +27,15 @@ Upload your code to [https://codequest.frank-mayer.io](https://codequest.frank-m
 
 ## Build
 
+Using [npm](https://nodejs.org)
+
+### Install dependencies
+
+```bash
+npm install
+```
+### Compile code
+
 ```bash
 npm run build
 ```
