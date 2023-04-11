@@ -2,6 +2,8 @@
 
 Add code snippets to your WhatsApp messages.
 
+![Screenshot](https://raw.githubusercontent.com/Frank-Mayer/codequest.ext/main/screenshot.jpg)
+
 ## Use markdown syntax
 
 Write a markdown code block in your message:
