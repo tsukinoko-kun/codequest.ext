@@ -1,0 +1,32 @@
+{
+    "targets": {
+        "frontend": {
+            "context": "browser",
+            "includeNodeModules": true,
+            "outputFormat": "global",
+            "isLibrary": false,
+            "optimize": true,
+            "sourceMap": false,
+            "engines": {
+                "browsers": [
+                    "last 1 Chrome version",
+                    "last 1 Firefox version"
+                ]
+            }
+        }
+    },
+    "source": "src/index.ts",
+    "frontend": "content.js",
+    "scripts": {
+        "dev": "parcel watch",
+        "build": "parcel build"
+    },
+    "dependencies": {
+        "highlight.js": "^11.7.0"
+    },
+    "devDependencies": {
+        "@types/highlight.js": "^10.1.0",
+        "parcel": "^2.8.3",
+        "typescript": "^5.0.4"
+    }
+}
