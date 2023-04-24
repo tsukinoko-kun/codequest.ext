@@ -20,5 +20,11 @@
             "resources": ["css/*.css"],
             "matches": ["https://web.whatsapp.com/*"]
         }
-    ]
+    ],
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "codequest@frank-mayer.io",
+            "strict_min_version": "42.0"
+        }
+    }
 }
