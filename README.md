@@ -66,6 +66,6 @@ Make sure the extension is build before you install it.
 
 1. Pack the compiled addon into a zip archive or download it from the releases.
 2. Go to [`about:addons`](about:addons).
-3. Click the ‚öôÔ∏è  button.
+3. Click the :gear: button.
 4. Click `Install Add-on From File`.
 5. Select the downloaded ZIP.
