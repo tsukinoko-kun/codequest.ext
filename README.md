@@ -42,9 +42,17 @@ npm run build
 
 ## Installation
 
+Make sure the extension is build before you install it.
+
 ### Chrome
 
 1. At the top right, click `More ⋮` > `More tools` > `Extensions` or go to [`chrome://extensions`](chrome://extensions).
 2. Enable `Developer mode` at the top right corner.
 3. Click `Load unpacked` at the top left corner.
 4. Choose this repository.
+
+### Firefox
+
+1. Go to [`about:debugging#/runtime/this-firefox`](about:debugging#/runtime/this-firefox).
+2. Click `Load Temporary Add-on`.
+3. Select the `manifest.json` file of this repository.
