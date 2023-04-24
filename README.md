@@ -28,6 +28,7 @@ Upload your code to [https://codequest.frank-mayer.io](https://codequest.frank-m
 # Install from a store
 
 Chrome: https://chrome.google.com/webstore/detail/codequest/fhibkmjnpghekmolkfpbemmhfiokagdj
+
 Firefox: https://addons.mozilla.org/de/firefox/addon/codequest/
 
 ## Build
