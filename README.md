@@ -51,6 +51,8 @@ Make sure the extension is build before you install it.
 
 ### Chrome
 
+> You have to remove the `browser_specific_settings` from the `manifest.json` when building for Chrome.
+
 1. At the top right, click `More ⋮` > `More tools` > `Extensions` or go to [`chrome://extensions`](chrome://extensions).
 2. Enable `Developer mode` at the top right corner.
 3. Click `Load unpacked` at the top left corner.
